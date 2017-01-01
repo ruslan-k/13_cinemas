@@ -1,6 +1,11 @@
 # Cinemas
 
-[TODO. There will be project description]
+The sript gets [movie list](http://www.afisha.ru/msk/schedule_cinema/) that are currently running in the theaters and prints top 10 movies with the highest rating.
+
+# Usage
+
+    pip install -r requirements.txt
+    python3.5 cinemas
 
 # Project Goals
 
